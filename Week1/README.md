@@ -24,6 +24,12 @@ The image below shows what the rainbow may look like to individuals with each of
   <img src="https://github.com/Arash217/browser-technologies-1819/blob/master/Week1/docs/colorblind.jpg" width="75%"/>
 </p>
 
+### 2. Tools
+
+#### 2.1 Colorblinding
+[Google Chrome extension](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa)
+
+
 ## Bandwidth
 
 
