@@ -20,7 +20,7 @@ The most common is red/green color blindness, where sufferers mix up all colors 
 The third type of color deficiency, Tritanopia, is the least common and refers to sufferers who struggle to distinguish blue or yellow light.
 
 #### 1.1.3 Monochromacy 
-People with monochromatic vision can see no colour at all and their world consists of different shades of grey ranging from black to white.
+People with monochromatic vision can see no color at all and their world consists of different shades of grey ranging from black to white.
 
 #### 1.1.3 What they see
 The image below shows what colors look like for color blind individuals.
