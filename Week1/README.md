@@ -35,30 +35,11 @@ The image below shows what the color blindness looks for color blind individuals
 - [ATG tickets](https://beta.atgtickets.com/seats/9-to-5-the-musical/savoy-theatre/FE5C32DB-53FB-4D86-90FD-F16C13721F75)
 
 ### 4. Tips for better color accessibility
-
-#### 1. Use both colors and symbols
-You shouldn’t rely on color alone to convey a message; for example, certain types of color blindness might make it difficult or even impossible to see common red error messages. One approach is to use both colors and symbols where users’ attention is required. A good example of this is Facebook’s form fields and the error messaging attached.
-
-#### 2. Keep it minimal
-You should limit the color palette you use for your website; the fewer colors you use in your design, the fewer instances there will be for confusion.
-
-#### 3. Use patterns and textures to show contrast
-Try to use different textures, as opposed to multiple colors, for elements that require emphasis. For example, it might be difficult for color blind users to interpret graphs and charts. In this case, it’s better to use contrasting patterns and, where possible, place text instead.
-
-#### 4. Be careful with contrasting colors and hues
-Instead of relying on black and white as your only contrasting colors; try to use a range of clearly contrasting colors and hues in your design. For example, the game Word Feud uses four colors for its tiles that can be easily distinguished by those with or without color vision deficiency.
-
-#### 5. Avoid bad color combos
-You need to be smart when picking out your color combinations. Since color blindness affects people in different ways, it’s difficult to determine which colors are ‘safe’ to use in web design. That being said, here’s a few color combinations to avoid because they’re a potential nightmare to color blind users:
-
-- Green & Red
-- Green & Brown
-- Blue & Purple
-- Green & Blue
-- Light Green & Yellow
-- Blue & Grey
-- Green & Grey
-- Green & Black
+- Don’t only rely on color to convey a message
+- Keep your color palette limited to 2 or 3 colors
+- Use texture and patterns to show contrast
+- Carefully select any contrasting colors and shades
+- Avoid using bad color combinations
 
 ## Bandwidth
 
