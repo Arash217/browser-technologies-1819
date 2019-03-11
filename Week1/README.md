@@ -27,7 +27,7 @@ The image below shows what colors look like for color blind individuals.
 
 <img src="https://github.com/Arash217/browser-technologies-1819/blob/master/Week1/docs/color-blindness.png"/>
 
-### 1.2 Tools
+### 1.2 How to test
 - [Toptal](https://www.toptal.com/designers/colorfilter/) is a website that simulates color blindness.
 - [Colorblinding](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa) is a Google Chrome extension that simulates color blindness.
 
@@ -42,8 +42,16 @@ The image below shows what colors look like for color blind individuals.
 - Avoid using bad color combinations
 
 ## 2. Low bandwidth
+Smartphone users expect a website to load in under 3 seconds, and may leave a website that takes longer. 
+Furthermore, when Google assesses page ranks, the websites that load faster rank higher. 
+Unless your business delivers content aimed at high-bandwidth connections (video streaming for example) it is best to design a website that performs quickly on low-bandwidth connections and cuts down on external requests. 
+This ensures a fast page load time on all connection types and bandwidth limits.
 
+### 2.2 How to test
+- Google Chrome: Developer tools > Network tab > Change from online/no throttling to custom preset.
+- [Charles](https://www.charlesproxy.com/) is a cross-platform desktop tool for simulating bandwidth.
 
 ## Source
 - https://usabilla.com/blog/how-to-design-for-color-blindness/
 - http://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/
+- https://smallbusiness.chron.com/bandwidth-affect-website-performance-69958.html
