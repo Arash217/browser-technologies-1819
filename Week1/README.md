@@ -21,11 +21,9 @@ The third type of color deficiency, Tritanopia, is the least common and refers t
 People with monochromatic vision can see no colour at all and their world consists of different shades of grey ranging from black to white.
 
 ##### 1.1.3 What they perceive
-The image below shows what the color blindness looks for color blind individuals.
+The image below shows what colors look like for color blind individuals.
 
-<p align="center">
-  <img src="https://github.com/Arash217/browser-technologies-1819/blob/master/Week1/docs/color-blindness.png" width="75%"/>
-</p>
+<img src="https://github.com/Arash217/browser-technologies-1819/blob/master/Week1/docs/color-blindness.png"/>
 
 ### 2. Tools
 - [Toptal](https://www.toptal.com/designers/colorfilter/) is a website that simulates color blindness.
