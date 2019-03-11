@@ -54,10 +54,16 @@ This ensures a fast page load time on all connection types and bandwidth limits.
 
 ### 2.2 Examples
 - [Simple website of a friend](http://de-klus-specialist.nl/) takes 11.87 seconds to load with the slow 3G simulation of Google Chrome.
+- [Website of the barber that I visit](http://haarstudioclass.nl/) takes 13.47 seconds to load with the slow 3G simulation of Google Chrome.
 
 ### 2.3 How to reduce load times
 Website of friend:
-- Images are way too big. Compression can be used to reduce the size. The green background image on the homepage can even be replaced with a gradient.
+- Images are too big. Compression can be used to reduce the size. The green background image on the homepage can even be replaced with a gradient.
+- CSS files can be compressed.
+- JavaScript files can be compressed.
+
+Website of the barber:
+- Images are used for bullets and arrows. Those can be made with css.
 - CSS files can be compressed.
 - JavaScript files can be compressed.
 
