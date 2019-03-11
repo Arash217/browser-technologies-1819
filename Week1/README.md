@@ -27,14 +27,14 @@ The image below shows what colors look like for color blind individuals.
 
 <img src="https://github.com/Arash217/browser-technologies-1819/blob/master/Week1/docs/color-blindness.png"/>
 
-### 2. Tools
+### 1.2 Tools
 - [Toptal](https://www.toptal.com/designers/colorfilter/) is a website that simulates color blindness.
 - [Colorblinding](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa) is a Google Chrome extension that simulates color blindness.
 
-### 3. Examples
+### 1.3 Examples
 - [ATG tickets](https://atg.nliven.co/tickets/series/wicked/wicked-103989?startDate=03-27-2019&_ga=2.180328228.1492796431.1552309213-323361853.1552309213#mapView) is not color friendly for any type of color blindness when buying a ticket. 
 - [De Beren reservation](https://www.beren.nl/welkom/reserveer-online/?new=1&res=1&i=c84a127447a251b6d038b97aa86096725c31ba3a) is not color friendly for people with monochromacy when choosing a reservation time.
-### 4. Tips for better color accessibility
+### 1.4 Tips for better color accessibility
 - Don’t only rely on color to convey a message
 - Keep your color palette limited to 2 or 3 colors
 - Use texture and patterns to show contrast
