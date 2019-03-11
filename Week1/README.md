@@ -27,7 +27,7 @@ The image below shows what the rainbow may look like to individuals with each of
 ### 2. Tools
 
 #### 2.1 Colorblinding
-[Google Chrome extension](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa)
+[Colorblinding](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa) is a Google Chrome extension to simulate color blindness.
 
 
 ## Bandwidth
