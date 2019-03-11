@@ -13,15 +13,18 @@ Color blindness or dolor vision deficiency (CVD) affects around 1 in 12 men and 
 #### Types of color blindness
 Most color blind people are able to see things just as clearly as the rest of the population, the difference is their inability to distinguish red, green or blue light.
 
-<p align="center">
-  <img src="https://github.com/Arash217/browser-technologies-1819/blob/master/Week1/docs/colorblind.jpg" width="75%"/>
-</p>
-
 ##### Protanopia & Deuteranopia
 The most common is red/green color blindness, where sufferers mix up all colors which have red or green as part of the whole color. Those affected by Protan color blindness are less sensitive to red light, whilst sufferers of Deuteranopia have the same problem with green. For example, a person with Protanopia will confuse blue and purple because they can’t recognize the red element of the color purple.
 
 ##### Tritanopia 
 The third type of color deficiency, Tritanopia, is the least common and refers to sufferers who struggle to distinguish blue or yellow light.
+
+##### What they perceive
+The image below shows what the rainbow may look like to individuals with each of these forms of color blindness.
+
+<p align="center">
+  <img src="https://github.com/Arash217/browser-technologies-1819/blob/master/Week1/docs/colorblind.jpg" width="75%"/>
+</p>
 
 ### Source
 - https://usabilla.com/blog/how-to-design-for-color-blindness/
