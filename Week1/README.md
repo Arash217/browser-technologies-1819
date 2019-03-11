@@ -34,6 +34,7 @@ The image below shows what colors look like for color blind individuals.
 ### 1.3 Examples
 - [ATG tickets](https://atg.nliven.co/tickets/series/wicked/wicked-103989?startDate=03-27-2019&_ga=2.180328228.1492796431.1552309213-323361853.1552309213#mapView) is not color friendly for any type of color blindness when buying a ticket. 
 - [De Beren reservation](https://www.beren.nl/welkom/reserveer-online/?new=1&res=1&i=c84a127447a251b6d038b97aa86096725c31ba3a) is not color friendly for people with monochromacy when choosing a reservation time.
+
 ### 1.4 Tips for better color accessibility
 - Don’t only rely on color to convey a message
 - Keep your color palette limited to 2 or 3 colors
@@ -50,6 +51,15 @@ This ensures a fast page load time on all connection types and bandwidth limits.
 ### 2.1 How to test
 - Google Chrome: Developer tools > Network tab > Change from online/no throttling to custom preset.
 - [Charles](https://www.charlesproxy.com/) is a cross-platform desktop tool for simulating bandwidth.
+
+### 2.2 Examples
+- [Simple website of a friend](http://de-klus-specialist.nl/) takes 11.87 seconds to load with the slow 3G simulation of Google Chrome.
+
+### 2.3 How to reduce load times
+Website of friend:
+- Images are way too big. Compression can be used to reduce the size. The green background image on the homepage can even be replaced with a gradient.
+- CSS files can be compressed.
+- JavaScript files can be compressed.
 
 ## Source
 - https://usabilla.com/blog/how-to-design-for-color-blindness/
