@@ -12,6 +12,8 @@ Color blindness or dolor vision deficiency (CVD) affects around 1 in 12 men and 
 
 ![Color blindness types](../Week1/docs/colorblind.jpg)
 
+<img src="https://github.com/Arash217/browser-technologies-1819/blob/master/Week1/docs/colorblind.jpg" align="center" height="50%"/>
+
 #### Types of color blindness
 Most color blind people are able to see things just as clearly as the rest of the population, the difference is their inability to distinguish red, green or blue light.
 
