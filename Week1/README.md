@@ -30,8 +30,8 @@ The image below shows what the rainbow may look like to individuals with each of
 [Colorblinding](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa) is a Google Chrome extension to simulate color blindness.
 
 ### 3. Examples
-[Color picker used in personal project](https://www.syncfusion.com/javascript-ui-controls/color-picker)
-[Similiar switch used in personal project](https://www.cssscript.com/demo/css3-ios-switch-button/)
+- [Color picker used in personal project](https://www.syncfusion.com/javascript-ui-controls/color-picker)
+- [Similiar switch used in personal project](https://www.cssscript.com/demo/css3-ios-switch-button/)
 
 ## Bandwidth
 
