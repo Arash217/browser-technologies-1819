@@ -1,9 +1,27 @@
 # Assignment 1.1 - Breaking the web
 
 ## Summary
-This assignment is about 'breaking' the web by disabling features on the browser. The features that I had to disable are colors and bandwidth.
+This assignment is about 'breaking' the web by disabling some features on the browser. The features that I had to disable are color and bandwidth.
 
-## Colors
+## Color
 
+### People
+
+#### Color blindness
+Color blindness or dolor vision deficiency (CVD) affects around 1 in 12 men and 1 in 200 women worldwide. This means that for every 100 users that visit your website, up to 8 people could actually experience the content much differently than you would expect.
+
+#### Types of color blindness
+Most color blind people are able to see things just as clearly as the rest of the population, the difference is their inability to distinguish red, green or blue light.
+
+##### Protanopia & Deuteranopia
+The most common is red/green color blindness, where sufferers mix up all colors which have red or green as part of the whole color. Those affected by Protan color blindness are less sensitive to red light, whilst sufferers of Deuteranopia have the same problem with green. For example, a person with Protanopia will confuse blue and purple because they can’t recognize the red element of the color purple.
+
+##### Tritanopia 
+The third type of color deficiency, Tritanopia, is the least common and refers to sufferers who struggle to distinguish blue or yellow light.
+
+### Source
+- https://usabilla.com/blog/how-to-design-for-color-blindness/
 
 ## Bandwidth
+
+
