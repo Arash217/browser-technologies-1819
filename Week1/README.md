@@ -27,7 +27,7 @@ The image below shows what colors look like for color blind individuals.
 
 ### 2. Tools
 - [Toptal](https://www.toptal.com/designers/colorfilter/) is a website that simulates color blindness.
-- [Colorblinding](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa) is a Google Chrome extension to simulate color blindness.
+- [Colorblinding](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa) is a Google Chrome extension that simulates color blindness.
 
 ### 3. Examples
 - [ATG tickets](https://beta.atgtickets.com/seats/9-to-5-the-musical/savoy-theatre/FE5C32DB-53FB-4D86-90FD-F16C13721F75)
