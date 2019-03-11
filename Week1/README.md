@@ -47,7 +47,7 @@ Furthermore, when Google assesses page ranks, the websites that load faster rank
 Unless your business delivers content aimed at high-bandwidth connections (video streaming for example) it is best to design a website that performs quickly on low-bandwidth connections and cuts down on external requests. 
 This ensures a fast page load time on all connection types and bandwidth limits.
 
-### 2.2 How to test
+### 2.1 How to test
 - Google Chrome: Developer tools > Network tab > Change from online/no throttling to custom preset.
 - [Charles](https://www.charlesproxy.com/) is a cross-platform desktop tool for simulating bandwidth.
 
