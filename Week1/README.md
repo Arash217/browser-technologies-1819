@@ -58,12 +58,12 @@ This ensures a fast page load time on all connection types and bandwidth limits.
 
 ### 2.3 How to reduce load times
 Website of friend:
-- Images are too big. Compression can be used to reduce the size. The green background image on the homepage can even be replaced with a gradient.
+- Images are too big. Compression can be used to reduce the size. The green background image on the homepage can be replaced with a gradient.
 - CSS files can be compressed.
 - JavaScript files can be compressed.
 
 Website of the barber:
-- Images are used for bullets and arrows. Those can be made with css.
+- Images are used for bullets and arrows. Those can be made with CSS.
 - CSS files can be compressed.
 - JavaScript files can be compressed.
 
