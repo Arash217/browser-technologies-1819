@@ -1,12 +1,16 @@
 # Assignment 1.1 - Breaking the web
 
 ## Summary
-This assignment is about 'breaking' the web by disabling some features on the browser. The features that I had to disable/limit are color and bandwidth.
+This assignment is about 'breaking' the web by disabling some features on the browser. 
+The features that I had to disable/limit are color and bandwidth.
 
 ## Color
 
 ### 1. Color blindness
-Color blindness affects around 1 in 12 men and 1 in 200 women worldwide. This means that for every 100 users that visit your website, up to 8 people could actually experience the content much differently than you would expect.
+Color blindness affects around 1 in 12 men and 1 in 200 women worldwide. 
+This means that for every 100 users that visit your website, 
+up to 8 people could actually experience the content much differently. 
+This could result the website being less usable or not usable at all for them, if not optimized.
 
 #### 1.1 Types of color blindness
 Most color blind people are able to see things just as clearly as the rest of the population, the difference is their inability to distinguish red, green or blue light.
