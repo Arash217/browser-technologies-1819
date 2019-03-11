@@ -10,7 +10,9 @@ This assignment is about 'breaking' the web by disabling some features on the br
 #### Color blindness
 Color blindness or dolor vision deficiency (CVD) affects around 1 in 12 men and 1 in 200 women worldwide. This means that for every 100 users that visit your website, up to 8 people could actually experience the content much differently than you would expect.
 
-<img src="https://github.com/Arash217/browser-technologies-1819/blob/master/Week1/docs/colorblind.jpg" align="center" width="75%"/>
+<p align="center">
+  <img src="https://github.com/Arash217/browser-technologies-1819/blob/master/Week1/docs/colorblind.jpg" width="75%"/>
+</p>
 
 #### Types of color blindness
 Most color blind people are able to see things just as clearly as the rest of the population, the difference is their inability to distinguish red, green or blue light.
