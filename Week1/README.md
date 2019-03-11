@@ -25,8 +25,6 @@ The image below shows what the rainbow may look like to individuals with each of
 </p>
 
 ### 2. Tools
-
-#### 2.1 Colorblinding
 - [Colorblinding](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa) is a Google Chrome extension to simulate color blindness.
 - [Toptal](https://www.toptal.com/designers/colorfilter/) is a website that simulates color blindness.
 
