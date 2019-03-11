@@ -10,12 +10,12 @@ This assignment is about 'breaking' the web by disabling some features on the br
 #### Color blindness
 Color blindness or dolor vision deficiency (CVD) affects around 1 in 12 men and 1 in 200 women worldwide. This means that for every 100 users that visit your website, up to 8 people could actually experience the content much differently than you would expect.
 
+#### Types of color blindness
+Most color blind people are able to see things just as clearly as the rest of the population, the difference is their inability to distinguish red, green or blue light.
+
 <p align="center">
   <img src="https://github.com/Arash217/browser-technologies-1819/blob/master/Week1/docs/colorblind.jpg" width="75%"/>
 </p>
-
-#### Types of color blindness
-Most color blind people are able to see things just as clearly as the rest of the population, the difference is their inability to distinguish red, green or blue light.
 
 ##### Protanopia & Deuteranopia
 The most common is red/green color blindness, where sufferers mix up all colors which have red or green as part of the whole color. Those affected by Protan color blindness are less sensitive to red light, whilst sufferers of Deuteranopia have the same problem with green. For example, a person with Protanopia will confuse blue and purple because they can’t recognize the red element of the color purple.
