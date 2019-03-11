@@ -31,6 +31,7 @@ The image below shows what colors look like for color blind individuals.
 
 ### 3. Examples
 - [ATG tickets](https://beta.atgtickets.com/seats/9-to-5-the-musical/savoy-theatre/FE5C32DB-53FB-4D86-90FD-F16C13721F75)
+- [De Beren reservation](https://www.beren.nl/welkom/reserveer-online/?new=1&res=1&i=c84a127447a251b6d038b97aa86096725c31ba3a)
 
 ### 4. Tips for better color accessibility
 - Don’t only rely on color to convey a message
